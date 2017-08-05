@@ -5,4 +5,8 @@ Git tracks changes
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Add commiting.
+<<<<<<< Updated upstream
 Add liufapeng.
+=======
+Add stash.
+>>>>>>> Stashed changes
